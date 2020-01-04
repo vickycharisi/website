@@ -1,2 +1,2 @@
 # website
-~$ git clone https://github.com/vickycharisi/website.github.io
+git clone https://github.com/vickycharisi/website.github.io
